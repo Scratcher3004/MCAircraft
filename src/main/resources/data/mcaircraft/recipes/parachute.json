@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "www",
+        "s s",
+        " a "
+    ],
+    "key": {
+        "w": {
+            "tag": "minecraft:wool"
+        },
+        "s": {
+            "item": "minecraft:string"
+        },
+        "a": {
+            "item": "minecraft:saddle"
+        }
+    },
+    "result": {
+        "item": "mcaircraft:parachute",
+        "count": 1
+    }
+}
